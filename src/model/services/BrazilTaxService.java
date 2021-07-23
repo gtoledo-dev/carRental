@@ -7,7 +7,7 @@ public class BrazilTaxService {
 			return amount * 0.2;
 			
 		} else {
-			return amount *0.15;
+			return amount * 0.15;
 		}
 	}
 
